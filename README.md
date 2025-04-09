@@ -45,6 +45,26 @@ Here are some sample projects I’ve worked on (click the links to view more):
 ---
 
 ## 📞 Contact Me
+## 📬 Contact Me
+
+If you’d like to get in touch, please fill out the form below and I’ll get back to you as soon as possible.
+
+<form action="https://formsubmit.co/Liaqat.Ali.Shaiz2@gmail.com" method="POST">
+  <input type="hidden" name="_captcha" value="false">
+  <input type="hidden" name="_next" value="[https://github.com/yourusername/yourrepo](https://shaizawan1.github.io/portfolio/)">
+
+  <label for="name">Name:</label><br>
+  <input type="text" name="name" required><br><br>
+
+  <label for="email">Email:</label><br>
+  <input type="email" name="email" required><br><br>
+
+  <label for="message">Message:</label><br>
+  <textarea name="message" rows="5" required></textarea><br><br>
+
+  <button type="submit">Send</button>
+</form>
+
 
 - 📧 Email: [Liaqat.Ali.Shaiz2@gmail.com](mailto:Liaqat.Ali.Shaiz2@gmail.com)  
 - 📱 Phone: [+92 0308 5084072](tel:+9203085084072)  
