@@ -1,8 +1,6 @@
-# 📊 Liaqat Ali – Power BI Data Analyst
 
----
 
-## 🧑‍💼 About Me
+##  About Me
 
 Hi! I'm **Liaqat Ali**, a passionate **Power BI Data Analyst** with a strong foundation in data analytics, reporting, and business intelligence. I hold a **Master’s degree in Computer Science**, and I love turning raw data into meaningful insights.
 
