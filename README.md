@@ -29,14 +29,119 @@ With expertise in **Power BI**, **Excel**, **SQL**, and **Python**, I have succe
 Here are some sample projects I’ve worked on (click the links to view more):
 
 1. **Sales Performance Dashboard**  
-   📌 Tools: Power BI, DAX, Excel  
-   🔗 [View Project](#)
+   📌 Tools: Power BI, DAX, Excel
+# 📊 Sales Performance Analysis Dashboard – XYZ Corporation
 
-2. **HR Analytics Dashboard**  
+## 🧩 Project Overview
+
+XYZ Corporation, a mid-sized retail and e-commerce company, is striving to optimize its **sales performance**, **profitability**, and **decision-making** through data-driven insights. This Power BI project aims to transform fragmented sales data into an **interactive, insightful dashboard** that highlights key performance indicators and trends.
+
+---
+
+## 🎯 Objectives
+
+The primary objectives of the dashboard are:
+
+- 📈 **Analyze Sales Trends** – Understand revenue trends over time.
+- 💰 **Measure Profit & Profit Margin** – Gain insights into financial performance.
+- 📦 **Track Orders** – Monitor order volume and patterns.
+- 📊 **Compare Sales Performance** – Year-over-Year (YoY) comparisons for products, months, and regions.
+- 🛒 **Product & Channel Analysis** – Evaluate performance by sales channels and product lines.
+- 🧍‍♂️ **Customer Insights** – Identify key and loyal customers based on purchasing behavior.
+- 🌆 **Regional Analysis** – Highlight top-performing cities/regions.
+- 🎛️ **Interactive Filtering** – Enable dynamic slicing by Date, City, Product, and Channel.
+
+---
+
+## 📉 Business Problem
+
+Despite collecting extensive sales data, XYZ Corporation faces challenges such as:
+
+- ❌ **Fragmented and inconsistent data**
+- ⏱️ **Delayed reporting and insights**
+- ❓ **Lack of clarity on product/channel performance**
+- 📉 **Difficulty in measuring profitability and trends**
+
+This project provides a **centralized Power BI solution** for solving these problems with real-time metrics and visualizations.
+
+---
+
+## 🛠️ Tools & Technologies
+
+- **Power BI Desktop**
+- **DAX (Data Analysis Expressions)**
+- **Power Query (M Language)**
+- **Excel (.xlsx) Dataset**
+
+---
+
+## 📁 Dataset
+
+- **File Name:** `Sales Analysis Report.xlsx`
+- **Contents:** Sales, Profit, Orders, Channels, Cities, Products, Customers, and Dates
+
+---
+
+## 📌 KPIs & Visuals
+
+| KPI/Metric                            | Description                                      |
+|--------------------------------------|--------------------------------------------------|
+| Total Sales                          | Sum of revenue for selected period               |
+| Total Profit                         | Sum of profits across orders                     |
+| Profit Margin                        | (Profit / Sales) * 100                           |
+| Order Count                          | Number of orders placed                          |
+| YoY Sales Comparison                 | Current vs Previous Year by Product & Month      |
+| Top 5 Cities                         | Cities with the highest sales                    |
+| Profit by Channel (YoY)              | Channel-wise profit trends                       |
+| Sales by Customer (YoY)              | Top and consistent customers                     |
+| Interactive Slicers                  | Date, City, Product, Channel                     |
+
+---
+
+## ✅ Success Criteria
+
+- 🚀 **Improved business decision-making**
+- 💹 **Increase in sales and profitability**
+- 🧠 **Actionable insights from visual analytics**
+- ⏳ **Faster reporting with real-time updates**
+- ⌛ **Project impact measurable within 6 months**
+
+---
+
+## 🧪 Future Enhancements
+
+- Add forecasting models using time series
+- Implement role-level security for department-specific views
+- Integrate live database or APIs for real-time updates
+- Build mobile-optimized view for on-the-go access
+
+---
+
+## 🤝 Client Approval
+
+Client has reviewed the proposal and approved the development of the Power BI dashboard. Work is now in progress.
+
+---
+
+## 📬 Contact
+
+**Analyst:** [Your Name]  
+**Email:** your.email@example.com  
+**LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/your-profile)  
+**Tools Used:** Power BI, Excel, DAX, Power Query  
+
+---
+
+> 📁 *This repository will be updated with the Power BI file (.pbix), visuals, documentation, and sample screenshots.*
+
+
+   🔗 [View Project] Details(#)
+
+3. **HR Analytics Dashboard**  
    📌 Tools: Power BI, Power Query  
    🔗 [View Project](#)
 
-3. **Marketing Campaign Analysis**  
+4. **Marketing Campaign Analysis**  
    📌 Tools: Python, Power BI  
    🔗 [View Project](#)
 
@@ -47,30 +152,7 @@ Here are some sample projects I’ve worked on (click the links to view more):
 ## 📞 Contact Me
 ## 📬 Contact Me
 
-If you’d like to get in touch, please fill out the form below and I’ll get back to you as soon as possible.
 
-<form action="https://formsubmit.co/Liaqat.Ali.Shaiz2@gmail.com" method="POST">
-  <input type="hidden" name="_captcha" value="false">
-  <input type="hidden" name="_next" value="[https://github.com/yourusername/yourrepo](https://shaizawan1.github.io/portfolio/)">
-
-  <label for="name">Name:</label><br>
-  <input type="text" name="name" required><br><br>
-
-  <label for="email">Email:</label><br>
-  <input type="email" name="email" required><br><br>
-
-  <label for="message">Message:</label><br>
-  <textarea name="message" rows="5" required></textarea><br><br>
-
-  <button type="submit">Send</button>
-</form>
-
-
-- 📧 Email: [Liaqat.Ali.Shaiz2@gmail.com](mailto:Liaqat.Ali.Shaiz2@gmail.com)  
-- 📱 Phone: [+92 0308 5084072](tel:+9203085084072)  
-- 💼 LinkedIn: *Coming Soon*
-
----
 
 > 🧠 “Without data, you're just another person with an opinion.” – W. Edwards Deming
 
