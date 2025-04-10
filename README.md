@@ -19,8 +19,21 @@ I'm a passionate **Data Analyst** with expertise in transforming raw data into a
 ## **Projects**  
 
 ### **1. Sales Performance Dashboard (Power BI)**  
-- Analyzed sales trends, customer behavior, and regional performance for an e-commerce company.  
-- **Technologies:** Power BI, DAX, SQL  
+# XYZ Corporation Retail Analytics
+
+**Objective**: Build interactive Power BI dashboard to optimize sales, profitability and decision-making across products, channels and regions. Deliver real-time performance tracking with trend analysis and customer/regional insights.
+
+**Key Features**:
+- Sales & profit performance dashboards
+- Product/channel effectiveness analysis
+- Regional market insights
+- YoY comparison reports
+
+**Technologies**: Power BI, SQL, Excel
+
+**Outcome**: Centralized reporting system delivering actionable insights, adopted by management with measurable sales improvement within 6 months.
+
+
 - [View Project](#) *(Replace with GitHub/PDF link)*  
 
 ### **2. Customer Segmentation Analysis (Python & SQL)**  
