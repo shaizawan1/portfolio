@@ -18,7 +18,6 @@ I'm a passionate **Data Analyst** with expertise in transforming raw data into a
 
 ## **Projects**  
 
-### **1. Sales Performance Dashboard (Power BI)**  
 # XYZ Corporation Retail Analytics
 
 **Objective**: Build interactive Power BI dashboard to optimize sales, profitability and decision-making across products, channels and regions. Deliver real-time performance tracking with trend analysis and customer/regional insights.
