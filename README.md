@@ -38,8 +38,8 @@ I'm a passionate **Data Analyst** with expertise in transforming raw data into a
 ---
 
 ## � **Education**  
-- **MSCS in Computer Science** – [VU Pakistan] *Regular* 
-- **BSCS in Computer Science** – [VU Pakistan] *Regular*
+- **MSCS in Computer Science** – *VU Pakistan* 
+- **BSCS in Computer Science** – *VU Pakistan* 
 
 ---
 
