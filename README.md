@@ -34,7 +34,7 @@ I'm a passionate **Data Analyst** with expertise in transforming raw data into a
 
 
 
-- [Click here to view the complete project on GitHub](https://github.com/shaizawan1/Sales-and-Retail-Analytics)
+- [Click here to view the detailed project](https://github.com/shaizawan1/Sales-and-Retail-Analytics)
 
 ### **2. Customer Segmentation Analysis (Python & SQL)**  
 - Performed RFM analysis to segment customers and improve marketing strategies.  
