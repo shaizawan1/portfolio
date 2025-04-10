@@ -1,5 +1,4 @@
-# Hi, I'm Liaqat Ali Shaiz  
-### Data Analyst | Power BI | SQL | Python | Excel  
+
 
 ---
 
@@ -39,8 +38,8 @@ I'm a passionate **Data Analyst** with expertise in transforming raw data into a
 ---
 
 ## � **Education**  
-- **MSc in Computer Science** – [University Name] *(Year)*  
-- **BSc in Computer Science** – [University Name] *(Year)*  
+- **MSc in Computer Science** – [VU Pakistan]  
+- **BSc in Computer Science** – [VU Pakistan]  
 
 ---
 
