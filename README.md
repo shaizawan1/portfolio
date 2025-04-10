@@ -31,10 +31,10 @@ I'm a passionate **Data Analyst** with expertise in transforming raw data into a
 **Technologies**: Power BI, Excel
 
 **Outcome**: Centralized reporting system delivering actionable insights, adopted by management with measurable sales improvement within 6 months.
-[Click here to view the complete project on GitHub](https://github.com/shaizawan1/Sales-and-Retail-Analytics)
 
 
-- [View Project](#) *(Replace with GitHub/PDF link)*  
+
+- [Click here to view the complete project on GitHub](https://github.com/shaizawan1/Sales-and-Retail-Analytics)
 
 ### **2. Customer Segmentation Analysis (Python & SQL)**  
 - Performed RFM analysis to segment customers and improve marketing strategies.  
