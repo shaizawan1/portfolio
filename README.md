@@ -18,7 +18,7 @@ I'm a passionate **Data Analyst** with expertise in transforming raw data into a
 
 ## **Projects**  
 
-# XYZ Corporation Retail Analytics
+# Sales and Retail Analytics
 
 **Objective**: Build interactive Power BI dashboard to optimize sales, profitability and decision-making across products, channels and regions. Deliver real-time performance tracking with trend analysis and customer/regional insights.
 
@@ -28,9 +28,10 @@ I'm a passionate **Data Analyst** with expertise in transforming raw data into a
 - Regional market insights
 - YoY comparison reports
 
-**Technologies**: Power BI, SQL, Excel
+**Technologies**: Power BI, Excel
 
 **Outcome**: Centralized reporting system delivering actionable insights, adopted by management with measurable sales improvement within 6 months.
+[Click here to view the complete project on GitHub](https://github.com/shaizawan1/Sales-and-Retail-Analytics)
 
 
 - [View Project](#) *(Replace with GitHub/PDF link)*  
