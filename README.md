@@ -33,13 +33,13 @@ I'm a passionate **Data Analyst** with expertise in transforming raw data into a
 - **Technologies:** Excel (PivotTables, Power Query, VBA)  
 - [View Project](#)  
 
-*(Add more projects as needed)*  
+ 
 
 ---
 
 ## � **Education**  
-- **MSCS in Computer Science** – [VU Pakistan]  
-- **BSCS in Computer Science** – [VU Pakistan]  
+- **MSCS in Computer Science** – [VU Pakistan] *Regular* 
+- **BSCS in Computer Science** – [VU Pakistan] *Regular*
 
 ---
 
