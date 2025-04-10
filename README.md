@@ -47,7 +47,7 @@ I'm a passionate **Data Analyst** with expertise in transforming raw data into a
 Let's connect! I'm open to collaborations and new opportunities.  
 - ✉ **Email:** [Liaqat.Ali.Shaiz2@gmail.com](mailto:Liaqat.Ali.Shaiz2@gmail.com)  
 - 💼 **LinkedIn:** [linkedin.com/in/liaqat-ali-shaiz/](https://www.linkedin.com/in/liaqat-ali-shaiz/)  
-- 📂 **GitHub:** [https://github.com/shaizawan)  
+- 📂 **GitHub:** [github.com/shaizawan](https://github.com/shaizawan)   
 
 ---
 
