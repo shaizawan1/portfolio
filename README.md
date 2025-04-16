@@ -33,20 +33,33 @@ I'm a passionate **Data Analyst** with expertise in transforming raw data into a
 **Outcome**: Centralized reporting system delivering actionable insights, adopted by management with measurable sales improvement within 6 months.
 
 
-
 - [Click here to view the detailed project](https://github.com/shaizawan1/Sales-and-Retail-Analytics)
+- 
 
-### **2. Customer Segmentation Analysis (Python & SQL)**  
-- Performed RFM analysis to segment customers and improve marketing strategies.  
-- **Technologies:** Python (Pandas, Scikit-learn), SQL  
-- [View Project](#)  
+#  Pizza Sales Dashboard
 
-### **3. Financial Data Modeling (Excel)**  
-- Built a dynamic financial forecasting model for budget planning.  
-- **Technologies:** Excel (PivotTables, Power Query, VBA)  
-- [View Project](#)  
+##  Overview
+Power BI dashboard analyzing pizza sales data to uncover trends, preferences, and business opportunities.
 
- 
+##  Highlights
+- **5 Key Metrics**: Revenue, order value, pizzas sold, total orders, avg pizzas/order
+- **7 Interactive Visuals**: Trends, category/size breakdowns, best/worst sellers
+- **Smart Filters**: Drill down by date, category, and size
+
+## Top Insights
+-  Best sellers: Classic Deluxe & BBQ Chicken
+-  Peak hours: Weekend dinners (2.3× weekday sales)
+-  Size matters: Large pizzas drive 45% revenue
+-  Improvement area: Green Garden pizza (<2% sales)
+
+## Tech Stack
+- **Data Prep**: Excel 2021
+- **Database**: SQL Server 19
+- **Visualization**: Power BI (2023)
+
+- [Click here to view the detailed project](https://github.com/shaizawan1/Pizza-Sale-Analysis)
+
+
 
 ---
 
